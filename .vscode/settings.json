@@ -5,10 +5,8 @@
     "editor.formatOnSave": true
   },
   "[javascript]": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "cSpell.ignoreWords": [
-    "randNum"
-  ],
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "cSpell.ignoreWords": ["randNum"]
 }
